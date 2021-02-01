@@ -34,6 +34,13 @@ A. JAVA :
   
   -Profile.java
   
+  
+  
+  
+  
+  ![2021-02-01-12-35-17-Trim](https://user-images.githubusercontent.com/48264202/106422702-9eab6400-6491-11eb-83ef-c6024c4f6338.gif)
+
+  
   -Rincian.java
 
 B. LAYOUT :
